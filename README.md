@@ -2,6 +2,3 @@
 
 
   ## - :desktop_computer: Full stack web dev
-
-
-##
